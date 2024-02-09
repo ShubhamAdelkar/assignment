@@ -7,7 +7,7 @@ function Navsidebar() {
       <ul className="navbar">
         <div className="logoArea">
           <a href="#">
-            <img src="src\assets\images\logo.png" alt="logo" />
+            <img src="assets\images\logo.png" alt="logo" />
           </a>
         </div>
         <li>Cart</li>

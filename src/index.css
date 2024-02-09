@@ -1,5 +1,6 @@
 /* Import the font faces from the style.css file in the font-face directory */
-@import url('./assets/font-face/switzer-cufonfonts-webfont/style.css');
+@import url('../public/assets/font-face/switzer-cufonfonts-webfont/style.css');
+
 
 :root {
     --primary-color: #0000004D;

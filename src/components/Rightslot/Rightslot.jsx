@@ -11,7 +11,7 @@ function Rightslot() {
             <li>
               <img
                 className="bell-icon"
-                src="src\assets\icons\bell-icon.svg"
+                src="assets\icons\bell-icon.svg"
                 alt="bell-icon"
               />
             </li>
@@ -21,7 +21,7 @@ function Rightslot() {
           <h1>Choose your new site</h1>
           <ul className="list">
             <li className="active">
-              <img src="src\assets\icons\tickmark-icon.svg" />1
+              <img src="assets\icons\tickmark-icon.svg" />1
             </li>
             <li>2</li>
             <li>3</li>
@@ -33,12 +33,12 @@ function Rightslot() {
         <div className="image">
           <div className="filter">
             <p>jMarket</p>
-            <img src="src\assets\icons\arrow_back-icon.svg" />
+            <img src="assets\icons\arrow_back-icon.svg" />
             <p>Category</p>
-            <img src="src\assets\icons\arrow_back-icon.svg" />
+            <img src="assets\icons\arrow_back-icon.svg" />
             <p>Theme park site</p>
           </div>
-          <img src="src\assets\images\hero-image.png" />
+          <img src="assets\images\hero-image.png" />
         </div>
 
         <div className="primaryInfo">
@@ -48,32 +48,32 @@ function Rightslot() {
 
               <div className="right-info-container">
                 <div className="address">
-                  <img src="src\assets\icons\add_location-icon.svg" />
+                  <img src="assets\icons\add_location-icon.svg" />
                   <p>Address of the location</p>
                 </div>
 
                 <div className="features-container">
                   <div className="features">
-                    <img src="src\assets\icons\bolt-icon.svg" />
+                    <img src="assets\icons\bolt-icon.svg" />
                     <p>Adult Rides</p>
                   </div>
                   <div className="features">
-                    <img src="src\assets\icons\humidity_low-icon.svg" />
+                    <img src="assets\icons\humidity_low-icon.svg" />
                     <p>Family Rides</p>
                   </div>
                   <div className="features">
-                    <img src="src\assets\icons\agriculture-icon.svg" />
+                    <img src="assets\icons\agriculture-icon.svg" />
                     <p>Restarant</p>
                   </div>
                   <div className="features">
-                    <img src="src\assets\icons\outdoor_garden-icon.svg" />
+                    <img src="assets\icons\outdoor_garden-icon.svg" />
                     <p>Premium</p>
                   </div>
                 </div>
               </div>
 
               <div className="info-link">
-                <img src="src\assets\icons\north_east-icon.svg" />
+                <img src="assets\icons\north_east-icon.svg" />
                 <p>View opportunity on polygon</p>
               </div>
 
@@ -101,7 +101,7 @@ function Rightslot() {
                 <button className="site-visit">
                   <p>Site visit</p>
                   <img
-                    src="src\assets\icons\arrow_back-icon.svg"
+                    src="assets\icons\arrow_back-icon.svg"
                     alt="back-arrow"
                   />
                 </button>
@@ -117,7 +117,7 @@ function Rightslot() {
               </div>
               <img
                 className="blue-line"
-                src="src\assets\icons\blue-line.svg"
+                src="assets\icons\blue-line.svg"
                 alt="blue-line"
               />
             </div>
@@ -168,7 +168,7 @@ function Rightslot() {
                     <div className="landmark-box">
                       <div className="landmark-icon">
                         <img
-                          src="src\assets\icons\flight-icon.svg"
+                          src="assets\icons\flight-icon.svg"
                           alt="airplane"
                         />
                         <p className="subheading">Airport</p>
@@ -182,7 +182,7 @@ function Rightslot() {
                     <div className="landmark-box">
                       <div className="landmark-icon">
                         <img
-                          src="src\assets\icons\flight-icon.svg"
+                          src="assets\icons\flight-icon.svg"
                           alt="airplane"
                         />
                         <p className="subheading">Airport</p>
@@ -198,7 +198,7 @@ function Rightslot() {
                     <div className="landmark-box">
                       <div className="landmark-icon">
                         <img
-                          src="src\assets\icons\add_road-icon.svg"
+                          src="assets\icons\add_road-icon.svg"
                           alt="add-road"
                         />
                         <p className="subheading">Highway</p>
@@ -215,14 +215,14 @@ function Rightslot() {
                   <p className="heading">Map</p>
                   <img
                     className="map"
-                    src="src\assets\images\map.png"
+                    src="assets\images\map.png"
                     alt="map"
                   />
 
                   <button className="schedule-call">
                     <p>Schedule a call</p>
                     <img
-                      src="src\assets\icons\arrow_back-icon.svg"
+                      src="assets\icons\arrow_back-icon.svg"
                       alt="arrow"
                     />
                   </button>
